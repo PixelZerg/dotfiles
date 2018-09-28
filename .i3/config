@@ -337,6 +337,13 @@ set_from_resource $term_color13    color13
 set_from_resource $term_color14    color14
 set_from_resource $term_color15    color15
 
+# m: colours
+set $cbb #0e0e0e
+set $cb #1e1e1e
+set $cbo #454947
+set $cg #666666
+set $cf #FFFFFF
+
 # Start i3bar to display a workspace bar (plus the system information i3status if available)
 bar {
 	i3bar_command i3bar
@@ -352,15 +359,16 @@ bar {
 #   font xft:URWGothic-Book 11
 	strip_workspace_numbers yes
 
+	# colours in the bar
     colors {
-        background #283339
+        background $cb
         statusline #F9FAF9
-        separator  #454947
+        separator  $cbo
 
 #                      border  backgr. text
-        focused_workspace  #F9FAF9 #16a085 #292F34
-        active_workspace   #595B5B #353836 #FDF6E3
-        inactive_workspace #595B5B #283339 #EEE8D5
+        focused_workspace  $cbo $cbb $cf
+        active_workspace   $cbo $cb $cf
+        inactive_workspace $cb $cb $cf
         binding_mode       #16a085 #2C2C2C #F9FAF9
         urgent_workspace   #16a085 #FDF6E3 #E5201D
     }
@@ -371,21 +379,21 @@ bindsym $mod+m bar mode toggle
 
 # Theme colors
 # class                   border  backgr. text    indic.   child_border
-  client.focused          #556064 #556064 #80FFF9 #FDF6E3
-  client.focused_inactive #2F3D44 #2F3D44 #1ABC9C #454948
-  client.unfocused        #2F3D44 #2F3D44 #1ABC9C #454948
+  client.focused          $cb $cb $cf #FDF6E3
+  client.focused_inactive $cbb $cbb $cg #454948
+  client.unfocused        $cbb $cbb $cg #454948
   client.urgent           #CB4B16 #FDF6E3 #1ABC9C #268BD2
   client.placeholder      #000000 #0c0c0c #ffffff #000000 
 
-  client.background       #2B2C2B
+  client.background       $cb
 
 #############################
 ### settings for i3-gaps: ###
 #############################
 
 # Set inner/outer gaps
-gaps inner 10
-gaps outer -4
+gaps inner 5
+gaps outer 0
 
 # Additionally, you can issue commands with the following syntax. This is useful to bind keys to changing the gap size.
 # gaps inner|outer current|all set|plus|minus <px>
