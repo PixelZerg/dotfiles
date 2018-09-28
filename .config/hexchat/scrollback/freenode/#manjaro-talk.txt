@@ -1,5 +1,0 @@
-T 1537994443 19*	Now talking on 22#manjaro-talk
-T 1537994443 22*	Topic for 22#manjaro-talk is: Manjaro Talk. Use #manjaro channel for help. You will need to register your nickname with freenode to access #manjaro. https://freenode.net/kb/answer/registration
-T 1537994443 22*	Topic for 22#manjaro-talk set by 26AdityaPatil!~AdityaPat@fqdn.tech (24Sun Jun 24 06:24:45 2018)
-T 1537994471 Python interface unloaded
-T 1537994471 FiSHLiM plugin unloaded

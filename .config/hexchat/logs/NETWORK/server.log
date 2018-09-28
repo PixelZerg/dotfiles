@@ -1,9 +1,0 @@
-**** BEGIN LOGGING AT Wed Sep 26 21:40:29 2018
-
-Sep 26 21:40:29 AutoLoad failed for: /usr/lib/hexchat/plugins/lua.so
-Sep 26 21:40:29 libluajit-5.1.so.2: cannot open shared object file: No such file or directory
-Sep 26 21:40:29 Checksum plugin loaded
-Sep 26 21:40:29 Perl interface loaded
-Sep 26 21:40:29 Sysinfo plugin loaded
-Sep 26 21:40:30 FiSHLiM plugin loaded
-Sep 26 21:40:30 Python interface loaded
