@@ -1,0 +1,130 @@
+**** BEGIN LOGGING AT Wed Sep 26 21:40:30 2018
+
+Sep 26 21:40:30 *	*** Looking up your hostname...
+Sep 26 21:40:30 *	*** Checking Ident
+Sep 26 21:40:30 *	*** Found your hostname
+Sep 26 21:40:36 *	*** No Ident response
+Sep 26 21:40:36 *	Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+Sep 26 21:40:36 *	Capabilities requested: account-notify extended-join identify-msg multi-prefix 
+Sep 26 21:40:36 *	manjaroi3 is already in use. Retrying with manjaroi3_...
+Sep 26 21:40:36 *	Capabilities acknowledged: account-notify extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Wed Sep 26 21:40:37 2018
+
+**** BEGIN LOGGING AT Wed Sep 26 21:40:37 2018
+
+Sep 26 21:40:37 *	Welcome to the freenode Internet Relay Chat Network manjaroi3_
+Sep 26 21:40:37 *	Your host is wolfe.freenode.net[193.10.255.100/6667], running version ircd-seven-1.1.7
+Sep 26 21:40:37 *	This server was created Sat Sep 1 2018 at 18:07:18 UTC
+Sep 26 21:40:37 *	wolfe.freenode.net ircd-seven-1.1.7 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+Sep 26 21:40:37 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Sep 26 21:40:37 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK SAFELIST ELIST=CTU :are supported by this server
+Sep 26 21:40:37 *	WHOX CPRIVMSG CNOTICE ETRACE :are supported by this server
+Sep 26 21:40:37 *	There are 120 users and 86784 invisible on 31 servers
+Sep 26 21:40:37 *	36 :IRC Operators online
+Sep 26 21:40:37 *	33 :unknown connection(s)
+Sep 26 21:40:37 *	48654 :channels formed
+Sep 26 21:40:37 *	I have 5433 clients and 1 servers
+Sep 26 21:40:37 *	5433 5684 :Current local users 5433, max 5684
+Sep 26 21:40:37 *	86904 87975 :Current global users 86904, max 87975
+Sep 26 21:40:37 *	Highest connection count: 5685 (5684 clients) (67271 connections received)
+Sep 26 21:40:37 *	- wolfe.freenode.net Message of the Day - 
+Sep 26 21:40:37 *	- Welcome to wolfe.freenode.net in Stockholm, SE.
+Sep 26 21:40:37 *	- Thanks to http://nordu.net/ for sponsoring
+Sep 26 21:40:37 *	- this server!
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- WOLFE, GENE [1931-].  Prolific writer of short stories and
+Sep 26 21:40:37 *	- novels. His best-known work is the multi-volume novel The
+Sep 26 21:40:37 *	- Book of the New Sun. He has won multiple awards including
+Sep 26 21:40:37 *	- the Nebula Award, the World Fantasy Award, The Campell
+Sep 26 21:40:37 *	- Memorial Award and the Locus Award. He was awarded the World
+Sep 26 21:40:37 *	- Fantasy Award for lifetime achievement in 1996.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- Welcome to freenode - supporting the free and open source
+Sep 26 21:40:37 *	- software communities since 1998.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	-   __                               _          _  _   _     _____     _______ 
+Sep 26 21:40:37 *	-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+Sep 26 21:40:37 *	- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+Sep 26 21:40:37 *	- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+Sep 26 21:40:37 *	- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+Sep 26 21:40:37 *	-                                                                              
+Sep 26 21:40:37 *	- November 3rd-4th, Bristol, United Kingdom - see https://freenode.live/
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- freenode #live is a community-focused live event designed to build and
+Sep 26 21:40:37 *	- strengthen relationships between Free and Open Source Software (FOSS)
+Sep 26 21:40:37 *	- developers and users. freenode live seeks to raise awareness of and 
+Sep 26 21:40:37 *	- promote FOSS alternatives to proprietary software.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- Facilitating face-to-face interaction, creative workshops, talks and think 
+Sep 26 21:40:37 *	- tanks, freenode #live will bring developers and users together in a nurturing 
+Sep 26 21:40:37 *	- and dynamic environment stimulating the free exchange of ideas and 
+Sep 26 21:40:37 *	- information while fostering cross-project collaboration and dialogue for 
+Sep 26 21:40:37 *	- innovation.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- Please join us in the #live channel on the freenode network, or send us an
+Sep 26 21:40:37 *	- e-mail (team@freenode.live) if you have any questions and would like to
+Sep 26 21:40:37 *	- get involved! Further information will also be posted on the freenode.net 
+Sep 26 21:40:37 *	- website.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- See https://freenode.live/ for more information and to get your tickets!
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- We hope to see you there!
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- By connecting to freenode you indicate that you have read and
+Sep 26 21:40:37 *	- accept our policies and guidelines as set out on https://freenode.net
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- In the event that you observe behaviour that contravenes our policies,
+Sep 26 21:40:37 *	- please notify a volunteer staff member via private message, or send us an
+Sep 26 21:40:37 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Sep 26 21:40:37 *	- situation within a reasonable period of time, and we may request further
+Sep 26 21:40:37 *	- information or, as appropriate, involve other parties such as channel operators 
+Sep 26 21:40:37 *	- Group Contacts representing an on-topic group.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- freenode runs an open proxy scanner.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- If you are looking for assistance, you will be able to find a list of
+Sep 26 21:40:37 *	- volunteer staff using the '/who freenode/staff/*' command, and you may
+Sep 26 21:40:37 *	- message any of us at any time. Please note that freenode predominantly
+Sep 26 21:40:37 *	- provides assistance via private message, and while we have a network
+Sep 26 21:40:37 *	- channel the primary venue for support requests is via private message to
+Sep 26 21:40:37 *	- a member of the volunteer staff team.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- From time to time, volunteer staff may send server-wide notices relating to
+Sep 26 21:40:37 *	- the project, or the communities that we host. The majority of such notices
+Sep 26 21:40:37 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Sep 26 21:40:37 *	- do not miss them. Important messages relating to the freenode project, including
+Sep 26 21:40:37 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Sep 26 21:40:37 *	- global notices.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- Representing an on-topic project? Don't forget to register, more information
+Sep 26 21:40:37 *	- can be found on the https://freenode.net website under "Group Registration".
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- freenode organises an annual conference, and we would like to extend our
+Sep 26 21:40:37 *	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+Sep 26 21:40:37 *	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+Sep 26 21:40:37 *	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Sep 26 21:40:37 *	- network going for close to two decades.
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+Sep 26 21:40:37 *	- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+Sep 26 21:40:37 *	- you are interested in sponsoring this event, please send an e-mail to
+Sep 26 21:40:37 *	- sponsor@freenode.live
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	- Thank you for using freenode!
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	-  
+Sep 26 21:40:37 *	End of /MOTD command.
+Sep 26 21:40:37 *	manjaroi3_ sets mode +R on manjaroi3_
+Sep 26 21:40:37 *	manjaroi3_ sets mode +i on manjaroi3_
+Sep 26 21:40:37 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Sep 26 21:40:38 -freenode-connect-	Due to the persistent ongoing spam, all new connections are being set +R (block messages from unidentified users) and will be scanned for vulnerabilities. This will not harm your computer, and vulnerable hosts will be notified.
+Sep 26 21:40:38 *	Received a CTCP VERSION from freenode-connect
+Sep 26 21:40:43 *	#manjaro #manjaro-unregistered :Forwarding to another channel
+Sep 26 21:41:11 Sysinfo plugin unloaded
+Sep 26 21:41:11 Perl interface unloaded
+Sep 26 21:41:11 Checksum plugin unloaded
+**** ENDING LOGGING AT Wed Sep 26 21:41:11 2018
+

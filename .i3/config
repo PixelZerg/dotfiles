@@ -34,7 +34,8 @@ bindsym $mod+Return exec terminal
 bindsym $mod+Shift+q kill
 
 # start program launcher
-bindsym $mod+d exec --no-startup-id dmenu_recency
+bindsym $mod+d exec --no-startup-id rofi -show drun -width 400 -lines 5
+bindsym $mod+Tab exec --no-startup-id rofi -show window -width 400 -lines 5
 
 # launch categorized menu
 bindsym $mod+z exec --no-startup-id morc_menu
@@ -302,7 +303,7 @@ exec --no-startup-id clipit
 # exec_always --no-startup-id sbxkb
 exec --no-startup-id start_conky_maia
 # exec --no-startup-id start_conky_green
-exec --no-startup-id xautolock -time 10 -locker blurlock
+# exec --no-startup-id xautolock -time 10 -locker blurlock
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
 
@@ -346,9 +347,12 @@ set $cf #FFFFFF
 
 # Start i3bar to display a workspace bar (plus the system information i3status if available)
 bar {
+    font pango: FontAwesome 11
 	i3bar_command i3bar
-	status_command i3status
+	status_command i3blocks
 	position bottom
+	
+	separator_symbol "·"
 
 ## please set your primary output first. Example: 'xrandr --output eDP1 --primary'
 #	tray_output primary
@@ -363,11 +367,11 @@ bar {
     colors {
         background $cb
         statusline #F9FAF9
-        separator  $cbo
+        separator  $cg
 
 #                      border  backgr. text
-        focused_workspace  $cbo $cbb $cf
-        active_workspace   $cbo $cb $cf
+        focused_workspace  $cbb $cbb $cf
+        active_workspace   $cb $cb $cf
         inactive_workspace $cb $cb $cf
         binding_mode       #16a085 #2C2C2C #F9FAF9
         urgent_workspace   #16a085 #FDF6E3 #E5201D
