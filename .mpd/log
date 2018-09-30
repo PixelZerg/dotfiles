@@ -927,3 +927,42 @@ Sep 30 20:05 : client: [9] opened from [::1]:48360
 Sep 30 20:11 : player: played "_music/_albums/Aimer - After Dark/03 words.mp3"
 Sep 30 20:11 : client: [9] closed
 Sep 30 20:11 : client: [10] opened from [::1]:48454
+Sep 30 20:17 : player: played "_music/_albums/Aimer - After Dark/03 words.mp3"
+Sep 30 20:21 : player: played "_music/_albums/Aimer - Bitter & Sweet/01.リフレインが叫んでる.mp3"
+Sep 30 20:24 : player: played "_music/_albums/Aimer - Bitter & Sweet/02. l-o-v-e.mp3"
+Sep 30 20:28 : player: played "_music/_albums/Aimer - Bitter & Sweet/03. poker face.mp3"
+Sep 30 20:33 : player: played "_music/_albums/Aimer - Bitter & Sweet/04. 三日月.mp3"
+Sep 30 20:38 : player: played "_music/_albums/Aimer - Bitter & Sweet/05. viva la vida.mp3"
+Sep 30 20:42 : player: played "_music/_albums/Aimer - Bitter & Sweet/06. また君に恋してる.mp3"
+Sep 30 21:14 : player: played "_music/_albums/Aimer - Bitter & Sweet/07. 強く儚い者たち.mp3"
+Sep 30 21:14 : client: [10] closed
+Sep 30 21:14 : client: [11] opened from [::1]:49174
+ALSA lib pcm_dmix.c:1099:(snd_pcm_dmix_open) unable to open slave
+Sep 30 21:17 : exception: Failed to open "Alsa" [alsa]
+Sep 30 21:17 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1099:(snd_pcm_dmix_open) unable to open slave
+Sep 30 21:17 : exception: Failed to open "Alsa" [alsa]
+Sep 30 21:17 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Sep 30 21:19 : player: played "_music/_albums/Aimer - Bitter & Sweet/08. calendar girl.mp3"
+Sep 30 21:19 : client: [11] closed
+Sep 30 21:19 : client: [12] opened from [::1]:49208
+Sep 30 21:20 : exception: Failed to open audio output
+Sep 30 21:20 : client: [12] closed
+Sep 30 21:20 : player: played "_music/_albums/Aimer - Bitter & Sweet/09. 今宵の月のように.mp3"
+Sep 30 21:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 21:20 : avahi: Service 'Music Player' successfully established.
+Sep 30 21:20 : client: [0] opened from [::1]:49212
+Sep 30 21:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 20:25 : player: played "_music/_albums/Aimer - Bitter & Sweet/06. また君に恋してる.mp3"
+Sep 30 20:30 : exception: "Pulse Output" [pulse] failed to play: disconnected
+Sep 30 20:30 : client: [0] closed
+Sep 30 20:30 : player: played "_music/_albums/Aimer - Bitter & Sweet/06. また君に恋してる.mp3"
+Sep 30 20:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 20:34 : avahi: Service 'Music Player' successfully established.
+Sep 30 20:34 : client: [0] opened from [::1]:49552
+Sep 30 20:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 20:36 : client: [0] closed
+Sep 30 20:36 : client: [1] opened from [::1]:49558
+Sep 30 20:39 : player: played "_music/_albums/Aimer - Bitter & Sweet/01.リフレインが叫んでる.mp3"
+Sep 30 20:39 : client: [1] closed
+Sep 30 20:39 : client: [2] opened from [::1]:49624
