@@ -23,11 +23,10 @@ screenchange-reload = true
 margin-top = 2
 margin-bottom = 2
 
-
 ; colour themes
 [col/def]
 ;background
-b = #1e1e1e
+b = #151515
 ;background accent
 ba = #444
 ; foreground
@@ -49,7 +48,6 @@ fa = #444
 p = #ccc
 s = #e60053
 u = #bd2c40
-
 
 [col]
 ; currently using theme v
@@ -73,10 +71,12 @@ border-size = 0 ; bar gap
 padding-left = 0
 padding-right = 2
 
-font-0 = "NotoSans:size=11.5;2"
-font-1 = FontAwesome:size=11;2.5
-font-2 = "NotoSansMono:size=7.5;1"
-font-3 = "NotoSansMono:size=11.2;2"
+font-0 = "NotoSans:size=11.5;0"
+font-1 = FontAwesome:size=11;0
+font-2 = "NotoSansMono:size=7.5;0"
+font-3 = "NotoSansMono:size=11.2;0"
+font-4 = "MaterialIcons:size=16;4"
+font-5 = "MaterialIcons:size=15;4"
 
 background = ${col.b}
 foreground = ${col.f}
@@ -88,15 +88,47 @@ inherit = bar
 bottom = true
 
 modules-left = i3
-modules-right = memory cpu temperature battery date
-wm-restack = i3
+modules-right = memory cpu temperature battery date 
+
+[bar/top]
+inherit = bar
+bottom = false
+
+padding-left = 3
+spacing = 2
+
+modules-right = network
+modules-left = powermenu mpd
+modules-center = xwindow
 
 tray-position = right
-tray-maxsize = 24
 tray-detached = false
 tray-transparent = false
-tray-padding = 2
+tray-padding = 1
 tray-scale = 1.0
+tray-offset-y = -2
+tray-background = ${col.b}
+
+[module/network]
+type = internal/network
+interface = wlp2s0
+# ping-interval = 5
+
+format-connected = <label-connected>
+# label-connected = %essid%
+label-connected = %{T4}%downspeed:8% %upspeed:7%%{T-}
+label-disconnected = n/a
+label-disconnected-foreground = #66
+
+ramp-signal-0 = 
+ramp-signal-1 = 
+ramp-signal-2 = 
+ramp-signal-3 = 
+ramp-signal-4 = 
+
+[module/xwindow]
+type = internal/xwindow
+label-maxlen = 75
 
 [module/i3]
 type = internal/i3
@@ -143,16 +175,73 @@ format =  <label>
 
 [module/mpd]
 type = internal/mpd
-format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
 
-icon-prev = 
-icon-stop = 
-icon-play = 
-icon-pause = 
-icon-next = 
+# format-online = <icon-prev> <icon-stop> <toggle> <icon-next> <bar-progress>  <label-time>  <label-song>
+format-online = <icon-prev> <icon-stop> <toggle> <icon-next> <bar-progress>  <label-time>
 
-label-song-maxlen = 25
-label-song-ellipsis = true
+# icon-play = 
+# icon-pause = 
+# icon-stop = 
+# icon-prev = 
+# icon-next = 
+# icon-random = 
+# icon-repeat = 
+
+icon-play = 
+icon-pause = 
+icon-stop = 
+icon-prev = 
+icon-next = 
+icon-random = 
+icon-repeat = 
+
+toggle-on-foreground =
+toggle-off-foreground = #55
+
+bar-progress-width = 30
+bar-progress-format = %{A4:mpdseek+2: A5:mpdseek-2:}%fill%%indicator%%empty%%{A A}
+bar-progress-indicator = |
+bar-progress-indicator-foreground = ${col.f}
+bar-progress-indicator-font = 3
+bar-progress-fill = ─
+bar-progress-fill-foreground = ${col.f}
+bar-progress-fill-font = 3
+bar-progress-empty = ─
+bar-progress-empty-font = 3
+bar-progress-empty-foreground = #44
+
+[module/powermenu]
+type = custom/menu
+
+label-open = 
+label-close = 
+label-open-font = 6
+label-close-font = 6
+label-separator = "│"
+
+menu-0-0 = Logout
+menu-0-0-foreground = #fba922
+menu-0-0-exec = i3-msg exit
+menu-0-1 = Restart
+menu-0-1-foreground = #fba922
+menu-0-1-exec = menu_open-1
+menu-0-2 = Shutdown
+menu-0-2-foreground = #fba922
+menu-0-2-exec = menu_open-2
+
+menu-1-0 = Cancel
+menu-1-0-foreground = #fba922
+menu-1-0-exec = menu_open-0
+menu-1-1 = Reboot
+menu-1-1-foreground = #fba922
+menu-1-1-exec = sudo reboot
+
+menu-2-0 = Power off
+menu-2-0-foreground = #fba922
+menu-2-0-exec = sudo poweroff
+menu-2-1 = Cancel
+menu-2-1-foreground = #fba922
+menu-2-1-exec = menu_open-0
 
 [module/battery]
 type = internal/battery

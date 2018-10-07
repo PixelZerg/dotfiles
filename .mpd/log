@@ -1132,3 +1132,544 @@ Oct 02 02:14 : player: played "_music/_yt/Songss/023 - Miraie x Weeb Squad - Kon
 Oct 02 02:18 : player: played "_music/_yt/Songss/016 - MOMOLAND - _BBoom BBoom_ Mirrored Dance Practice.mp3"
 Oct 02 02:23 : player: played "_music/_yt/Songss/028 - DAOKO × 米津玄師『打上花火』MUSIC VIDEO.mp3"
 Oct 02 02:27 : player: played "_music/_yt/Songss/024 - [MV] REOL - 宵々古今 - YoiYoi Kokon.mp3"
+Oct 02 02:30 : player: played "_music/_yt/Songss/009 - Brain Fluid Explosion Girl - rerulili feat.miku&gumi - 脳漿炸裂ガール - れるりりfeat.初音ミク&GUMI.mp3"
+Oct 02 02:31 : client: [2] closed
+Oct 02 02:31 : player: played "_music/_yt/Songss/117 - Ansatsu Kyoushitsu[Hello, Shooting Star] English Subs-Romaji.mp3"
+Oct 02 11:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 11:20 : avahi: Service 'Music Player' successfully established.
+Oct 02 11:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 11:20 : avahi: Service 'Music Player' successfully established.
+Oct 02 11:20 : client: [0] opened from [::1]:36030
+Oct 02 11:20 : exception: Not playing
+Oct 02 11:20 : exception: Not playing
+Oct 02 11:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 11:25 : player: played "_music/_yt/Songss/063 - fhána - ムーンリバー - MUSIC VIDEO.mp3"
+Oct 02 11:29 : player: played "_music/_yt/Songss/092 - Dango Daikazoku Full Song + Lyrics.mp3"
+Oct 02 11:33 : player: played "_music/_yt/Songss/030 - Hatsune Miku Triple Baka.mp3"
+Oct 02 11:37 : player: played "_music/_yt/Songss/081 - Delta Heavy - Ghost.mp3"
+Oct 02 11:42 : player: played "_music/_yt/Songss/089 - Akame Ga kill OP 2 Liar Mask Full.mp3"
+Oct 02 11:46 : player: played "_music/_yt/Songss/103 - tamame - あの森で待ってる(tamame's the Promise Kiss Remix).mp3"
+Oct 02 11:50 : player: played "_music/_yt/Songss/017 - BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)' M-V.mp3"
+Oct 02 11:53 : client: [0] closed
+Oct 02 11:53 : client: [1] opened from [::1]:36156
+Oct 02 11:53 : client: [1] closed
+Oct 02 17:21 : client: [2] opened from [::1]:36390
+Oct 02 17:31 : player: played "_music/_yt/Songss/053 - 【MTFCB’17-R2】 Strawberry Trapper 【μrasagi's✧☾ƒt.☽✧あぃすムーン】.mp3"
+Oct 02 17:38 : player: played "_music/_yt/Songss/136 - supercell - Kimino Shiranai Monogatari.mp3"
+Oct 02 17:42 : player: played "_music/_yt/Songss/128 - yuikonnu - Caramel Heaven.mp3"
+Oct 02 17:47 : player: played "_music/_yt/Songss/118 - Deathly Loneliness Attacks／Mafumafu【Tried to sing】.mp3"
+Oct 02 17:50 : player: played "_music/_yt/Songss/009 - Brain Fluid Explosion Girl - rerulili feat.miku&gumi - 脳漿炸裂ガール - れるりりfeat.初音ミク&GUMI.mp3"
+Oct 02 17:54 : player: played "_music/_yt/Songss/126 - [SanaxCHIKO] Tokyo Summer Session - Romaji.mp3"
+Oct 02 17:56 : player: played "_music/_yt/Songss/023 - Miraie x Weeb Squad - Kong Zheng (Official Music Video).mp3"
+Oct 02 18:00 : player: played "_music/_yt/Songss/062 - Kuroneko - Uso No Hibana.mp3"
+Oct 02 18:04 : player: played "_music/_yt/Songss/055 - Clannad - Dango Daikazoku (Dango My Nigga Remix ft. Busta Rhymes).mp3"
+Oct 02 18:08 : player: played "_music/_yt/Songss/007 - BTS (방탄소년단) Blood Sweat and Tears Lyrics (피 땀 눈물) Han_Rom_Eng Color Coded.mp3"
+Oct 02 18:12 : player: played "_music/_yt/Songss/123 - BTS 防彈少年團 - DNA  (環球官方中文字幕MV).mp3"
+Oct 02 18:16 : player: played "_music/_yt/Songss/067 - 【Silent Siren】「チェリボム」MUSIC VIDEO full ver.【サイレントサイレン】.mp3"
+Oct 02 19:20 : player: played "_music/_yt/Songss/057 - Porter Robinson - Sad Machine (Lyric Video).mp3"
+Oct 02 19:23 : player: played "_music/_yt/Songss/021 - Kero Kero Bonito - Flamingo.mp3"
+Oct 02 19:27 : player: played "_music/_yt/Songss/096 - Kyoukai no Kanata Ending Full.mp3"
+Oct 02 19:32 : player: played "_music/_yt/Songss/077 - Re_Zero ED - Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』 ENG SUB.mp3"
+Oct 02 19:36 : player: played "_music/_yt/Songss/050 - Taneda Risa - Wareta Ringo (Shinsekai Yori Ending).mp3"
+Oct 02 19:39 : player: played "_music/_yt/Songss/037 - DJ Fresh Hot Right Now (Radio Edit) HD.mp3"
+Oct 02 19:43 : player: played "_music/_yt/Songss/079 - Panda Eyes - ILY.mp3"
+Oct 02 21:24 : player: played "_music/_yt/Songss/024 - [MV] REOL - 宵々古今 - YoiYoi Kokon.mp3"
+Oct 02 21:28 : player: played "_music/_yt/Songss/011 - 【Hatsune Miku English】Goodbye【Vocaloid Song】.mp3"
+Oct 02 21:32 : player: played "_music/_yt/Songss/130 - EGOIST-Guilty Crown - Departures -(Full Vesrion).mp3"
+Oct 02 21:38 : player: played "_music/_yt/Songss/136 - supercell - Kimino Shiranai Monogatari.mp3"
+Oct 02 21:42 : player: played "_music/_yt/Songss/118 - Deathly Loneliness Attacks／Mafumafu【Tried to sing】.mp3"
+Oct 02 21:48 : player: played "_music/_yt/Songss/094 - [ENG SUB] Secret Base - 10 Years After Ver..mp3"
+Oct 02 21:54 : player: played "_music/_yt/Songss/134 - EGOIST - All Alone With You.mp3"
+Oct 02 21:58 : player: played "_music/_yt/Songss/030 - Hatsune Miku Triple Baka.mp3"
+Oct 02 22:02 : player: played "_music/_yt/Songss/053 - 【MTFCB’17-R2】 Strawberry Trapper 【μrasagi's✧☾ƒt.☽✧あぃすムーン】.mp3"
+Oct 02 22:05 : player: played "_music/_yt/Songss/017 - BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)' M-V.mp3"
+Oct 02 22:08 : player: played "_music/_yt/Songss/022 - BASS BOOSTED x Gucci Gucci Literature Club's Not Hot (Miraie Mashup).mp3"
+Oct 02 22:11 : player: played "_music/_yt/Songss/061 - Icon For Hire - Make A Move.mp3"
+Oct 02 22:15 : player: played "_music/_yt/Songss/004 - Sayuri - Furaregaigirl.mp3"
+Oct 02 22:19 : player: played "_music/_yt/Songss/095 - Yamada-kun to 7-nin no Majo - Opening Full - Lyric.mp3"
+Oct 02 22:24 : player: played "_music/_yt/Songss/047 - 前前前世 (movie ver.) RADWIMPS MV.mp3"
+Oct 02 22:27 : player: played "_music/_yt/Songss/025 - 〔れをる〕 ストリーミングハート 〔歌ってみた〕.mp3"
+Oct 02 22:31 : player: played "_music/_yt/Songss/109 - 〔れをる〕 ECHO 〔歌ってみた〕.mp3"
+Oct 02 22:40 : player: played "_music/_yt/Songss/081 - Delta Heavy - Ghost.mp3"
+Oct 02 22:47 : player: played "_music/_yt/Songss/086 - Hatsune Miku - Depression of the Young Literati (文学少年の憂鬱).mp3"
+Oct 02 22:51 : player: played "_music/_yt/Songss/091 - FMA brotherhood OP1 ~ [Again]~『English and Romaji Lyrics 』.mp3"
+Oct 02 22:55 : player: played "_music/_yt/Songss/034 - Red Velvet - Russian Roulette (Color Coded Han_Rom_Eng Lyrics) _ by Yankat.mp3"
+Oct 02 22:59 : player: played "_music/_yt/Songss/067 - 【Silent Siren】「チェリボム」MUSIC VIDEO full ver.【サイレントサイレン】.mp3"
+Oct 03 18:39 : player: played "_music/_yt/Songss/072 - Kimi no Na wa. Opening _Yumetourou_ - Extended(Sound only).mp3"
+Oct 04 10:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 10:01 : avahi: Service 'Music Player' successfully established.
+Oct 04 10:01 : client: [0] opened from [::1]:33238
+Oct 04 10:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 10:08 : player: played "_music/_yt/Songss/040 - Standing Egg - I'll Pick You Up (데리러 갈게) Lyrics [Weightlifting Fairy Kim Bok Joo OST Part 5].mp3"
+Oct 04 10:12 : player: played "_music/_yt/Songss/024 - [MV] REOL - 宵々古今 - YoiYoi Kokon.mp3"
+Oct 04 10:17 : player: played "_music/_yt/Songss/091 - FMA brotherhood OP1 ~ [Again]~『English and Romaji Lyrics 』.mp3"
+Oct 04 10:22 : player: played "_music/_yt/Songss/068 - Re_Re_ - Asian Kung-Fu Generation (Single ver.) Boku dake ga Inai Machi OP.mp3"
+Oct 04 10:26 : player: played "_music/_yt/Songss/056 - LUVORATORRRRRY! ver れをる feat.nqrse.mp3"
+Oct 04 10:34 : player: played "_music/_yt/Songss/007 - BTS (방탄소년단) Blood Sweat and Tears Lyrics (피 땀 눈물) Han_Rom_Eng Color Coded.mp3"
+Oct 04 10:38 : player: played "_music/_yt/Songss/030 - Hatsune Miku Triple Baka.mp3"
+Oct 04 10:46 : player: played "_music/_yt/Songss/015 - iKON - ‘사랑을 했다(LOVE SCENARIO)’ M-V.mp3"
+Oct 05 09:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 09:36 : avahi: Service 'Music Player' successfully established.
+Oct 05 09:37 : client: [0] opened from [::1]:39742
+Oct 05 09:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 09:44 : player: played "_music/_yt/Songss/003 - 黃明志Namewee feat. 王力宏 Leehom Wang【漂向北方 Stranger In The North 】@CROSSOVER ASIA 2017亞洲通車專輯.mp3"
+Oct 05 09:49 : player: played "_music/_yt/Songss/072 - Kimi no Na wa. Opening _Yumetourou_ - Extended(Sound only).mp3"
+Oct 05 09:53 : player: played "_music/_yt/Songss/006 - Traum Cro Lyrics.mp3"
+Oct 05 09:56 : player: played "_music/_yt/Songss/009 - Brain Fluid Explosion Girl - rerulili feat.miku&gumi - 脳漿炸裂ガール - れるりりfeat.初音ミク&GUMI.mp3"
+Oct 05 10:01 : player: played "_music/_yt/Songss/099 - No Game No Life Opening Full.mp3"
+Oct 05 10:04 : player: played "_music/_yt/Songss/114 - Aimer - Kataomoi.mp3"
+Oct 05 10:08 : player: played "_music/_yt/Songss/034 - Red Velvet - Russian Roulette (Color Coded Han_Rom_Eng Lyrics) _ by Yankat.mp3"
+Oct 05 10:11 : player: played "_music/_yt/Songss/025 - 〔れをる〕 ストリーミングハート 〔歌ってみた〕.mp3"
+Oct 05 10:15 : player: played "_music/_yt/Songss/125 - CHiCOwithHoneyWorks - Ai No Scenario.mp3"
+Oct 05 10:22 : player: played "_music/_yt/Songss/086 - Hatsune Miku - Depression of the Young Literati (文学少年の憂鬱).mp3"
+Oct 05 10:26 : player: played "_music/_yt/Songss/017 - BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)' M-V.mp3"
+Oct 05 10:30 : player: played "_music/_yt/Songss/120 - 【MV】Swaying from Season to Season - After the Rain (Soraru x Mafumafu).mp3"
+Oct 05 10:39 : client: [0] closed
+Oct 05 10:39 : player: played "_music/_yt/Songss/050 - Taneda Risa - Wareta Ringo (Shinsekai Yori Ending).mp3"
+Oct 05 13:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 13:26 : avahi: Service 'Music Player' successfully established.
+Oct 05 13:26 : client: [0] opened from [::1]:59584
+Oct 05 13:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 13:33 : client: [0] closed
+Oct 05 13:34 : player: played "_music/_albums/Aimer – BEST SELECTION “noir”/10. hoLlow wORlD.mp3"
+Oct 06 17:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 17:02 : avahi: Service 'Music Player' successfully established.
+Oct 06 17:02 : client: [0] opened from [::1]:43566
+Oct 06 17:02 : exception: Failed to open "Pulse Output" [pulse]
+Oct 06 17:02 : exception: nested: failed to connect: Connection refused
+Oct 06 17:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 17:03 : client: [0] closed
+Oct 06 17:03 : player: played "_music/_yt/Songss/001 - Sword Art Online Alternative_ Gun Gale Online _Rea(s)oN_ ( Episode 12 Insert Song).mp3"
+Oct 06 17:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 17:03 : avahi: Service 'Music Player' successfully established.
+Oct 06 17:03 : client: [0] opened from [::1]:43568
+Oct 06 17:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 17:04 : exception: "Pulse Output" [pulse] failed to play: disconnected
+Oct 06 17:04 : client: [0] closed
+Oct 06 17:04 : client: [1] opened from [::1]:43570
+Oct 06 17:07 : player: played "_music/_yt/Songss/001 - Sword Art Online Alternative_ Gun Gale Online _Rea(s)oN_ ( Episode 12 Insert Song).mp3"
+Oct 06 17:07 : player: played "_music/_yt/Songss/001 - Sword Art Online Alternative_ Gun Gale Online _Rea(s)oN_ ( Episode 12 Insert Song).mp3"
+Oct 06 17:08 : player: played "_music/_yt/Songss/001 - Sword Art Online Alternative_ Gun Gale Online _Rea(s)oN_ ( Episode 12 Insert Song).mp3"
+Oct 06 17:08 : client: [1] closed
+Oct 06 17:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 17:08 : avahi: Service 'Music Player' successfully established.
+Oct 06 17:08 : client: [0] opened from [::1]:43576
+Oct 06 17:08 : client: [0] closed
+Oct 06 17:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 17:10 : avahi: Service 'Music Player' successfully established.
+Oct 06 17:10 : client: [0] opened from [::1]:43596
+Oct 06 17:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 17:12 : client: [0] closed
+Oct 06 17:12 : client: [1] opened from [::1]:43600
+Oct 06 17:12 : client: [1] closed
+Oct 06 17:12 : client: [2] opened from [::1]:43602
+Oct 06 17:12 : player: played "_music/_yt/Songss/001 - Sword Art Online Alternative_ Gun Gale Online _Rea(s)oN_ ( Episode 12 Insert Song).mp3"
+Oct 06 17:12 : client: [2] closed
+Oct 06 17:17 : client: [3] opened from [::1]:43676
+Oct 06 19:40 : player: played "_music/_yt/Songss/114 - Aimer - Kataomoi.mp3"
+Oct 06 19:42 : player: played "_music/_yt/Songss/023 - Miraie x Weeb Squad - Kong Zheng (Official Music Video).mp3"
+Oct 06 19:45 : player: played "_music/_yt/Songss/020 - TMABird - Everybody's Circulation (Lyric Video).mp3"
+Oct 06 19:49 : player: played "_music/_yt/Songss/070 - Station Earth - Cold Green Eyes (ft. Roos Denayer).mp3"
+Oct 06 19:52 : player: played "_music/_yt/Songss/060 - 【MV】[A]ddiction - GigaReol×EVO+.mp3"
+Oct 06 19:56 : player: played "_music/_yt/Songss/103 - tamame - あの森で待ってる(tamame's the Promise Kiss Remix).mp3"
+Oct 06 20:00 : player: played "_music/_yt/Songss/077 - Re_Zero ED - Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』 ENG SUB.mp3"
+Oct 06 20:04 : player: played "_music/_yt/Songss/126 - [SanaxCHIKO] Tokyo Summer Session - Romaji.mp3"
+Oct 06 20:09 : player: played "_music/_yt/Songss/118 - Deathly Loneliness Attacks／Mafumafu【Tried to sing】.mp3"
+Oct 06 20:12 : player: played "_music/_yt/Songss/093 - Kimi ni todoke op 1 w- lyrics.mp3"
+Oct 06 22:07 : player: played "_music/_yt/Songss/077 - Re_Zero ED - Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』 ENG SUB.mp3"
+Oct 06 23:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 23:19 : client: [0] opened from 127.0.0.1:59064
+Oct 06 23:19 : avahi: Service 'Music Player' successfully established.
+Oct 06 23:19 : client: [1] opened from [::1]:44324
+Oct 06 23:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 23:22 : client: [0] closed
+Oct 06 23:22 : client: [2] opened from 127.0.0.1:59108
+Oct 06 23:23 : client: [2] closed
+Oct 06 23:23 : client: [3] opened from 127.0.0.1:59110
+Oct 06 23:27 : client: [3] closed
+Oct 06 23:27 : client: [4] opened from 127.0.0.1:59174
+Oct 06 23:30 : client: [4] closed
+Oct 06 23:30 : client: [5] opened from 127.0.0.1:59180
+Oct 06 23:32 : client: [5] closed
+Oct 06 23:32 : client: [6] opened from 127.0.0.1:59198
+Oct 06 23:32 : client: [6] closed
+Oct 06 23:32 : client: [7] opened from 127.0.0.1:59200
+Oct 06 23:32 : client: [8] opened from 127.0.0.1:59202
+Oct 06 23:32 : player: played "_music/_albums/Aimer - After Dark/01 After Dark -prologue-.mp3"
+Oct 06 23:32 : client: [8] closed
+Oct 06 23:32 : client: [9] opened from 127.0.0.1:59204
+Oct 06 23:32 : client: [9] closed
+Oct 06 23:32 : client: [10] opened from 127.0.0.1:59206
+Oct 06 23:32 : client: [10] closed
+Oct 06 23:32 : client: [11] opened from 127.0.0.1:59208
+Oct 06 23:32 : client: [11] closed
+Oct 06 23:32 : client: [12] opened from 127.0.0.1:59210
+Oct 06 23:32 : player: played "_music/_albums/Aimer - After Dark/01 After Dark -prologue-.mp3"
+Oct 06 23:32 : client: [12] closed
+Oct 06 23:32 : client: [13] opened from 127.0.0.1:59212
+Oct 06 23:32 : client: [13] closed
+Oct 06 23:33 : client: [14] opened from 127.0.0.1:59216
+Oct 06 23:33 : client: [14] closed
+Oct 06 23:33 : client: [7] closed
+Oct 06 23:33 : client: [15] opened from 127.0.0.1:59218
+Oct 06 23:33 : client: [15] closed
+Oct 06 23:33 : client: [16] opened from 127.0.0.1:59220
+Oct 06 23:33 : client: [16] closed
+Oct 06 23:33 : client: [17] opened from 127.0.0.1:59222
+Oct 06 23:34 : client: [17] closed
+Oct 06 23:34 : client: [18] opened from 127.0.0.1:59224
+Oct 06 23:34 : client: [19] opened from 127.0.0.1:59226
+Oct 06 23:34 : client: [19] closed
+Oct 06 23:34 : client: [20] opened from 127.0.0.1:59228
+Oct 06 23:34 : client: [20] closed
+Oct 06 23:34 : client: [21] opened from 127.0.0.1:59230
+Oct 06 23:34 : client: [21] closed
+Oct 06 23:34 : client: [22] opened from 127.0.0.1:59232
+Oct 06 23:34 : client: [22] closed
+Oct 06 23:34 : client: [23] opened from 127.0.0.1:59234
+Oct 06 23:34 : client: [23] closed
+Oct 06 23:34 : client: [18] closed
+Oct 06 23:34 : client: [24] opened from 127.0.0.1:59236
+Oct 06 23:34 : client: [24] closed
+Oct 06 23:34 : client: [25] opened from 127.0.0.1:59238
+Oct 06 23:35 : client: [25] closed
+Oct 06 23:35 : client: [26] opened from 127.0.0.1:59240
+Oct 06 23:35 : client: [26] closed
+Oct 06 23:35 : client: [27] opened from 127.0.0.1:59242
+Oct 06 23:35 : client: [27] closed
+Oct 06 23:35 : client: [28] opened from 127.0.0.1:59244
+Oct 06 23:35 : client: [28] closed
+Oct 06 23:35 : client: [29] opened from 127.0.0.1:59248
+Oct 06 23:35 : client: [29] closed
+Oct 06 23:35 : client: [30] opened from 127.0.0.1:59250
+Oct 06 23:36 : client: [31] opened from 127.0.0.1:59252
+Oct 06 23:36 : client: [31] closed
+Oct 06 23:38 : client: [30] closed
+Oct 06 23:38 : client: [32] opened from 127.0.0.1:59276
+Oct 06 23:38 : client: [33] opened from 127.0.0.1:59278
+Oct 06 23:38 : client: [33] closed
+Oct 06 23:38 : client: [34] opened from 127.0.0.1:59280
+Oct 06 23:38 : client: [34] closed
+Oct 06 23:38 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/01. ミカヅキ.mp3"
+Oct 06 23:39 : client: [35] opened from 127.0.0.1:59282
+Oct 06 23:39 : client: [35] closed
+Oct 06 23:39 : client: [36] opened from 127.0.0.1:59284
+Oct 06 23:39 : client: [36] closed
+Oct 06 23:39 : client: [32] closed
+Oct 06 23:39 : client: [37] opened from 127.0.0.1:59286
+Oct 06 23:40 : client: [37] closed
+Oct 06 23:40 : client: [38] opened from 127.0.0.1:59302
+Oct 06 23:41 : client: [38] closed
+Oct 06 23:41 : client: [39] opened from 127.0.0.1:59306
+Oct 06 23:41 : client: [40] opened from 127.0.0.1:59308
+Oct 06 23:41 : client: [40] closed
+Oct 06 23:41 : client: [41] opened from 127.0.0.1:59310
+Oct 06 23:41 : client: [41] closed
+Oct 06 23:41 : client: [42] opened from 127.0.0.1:59312
+Oct 06 23:41 : client: [42] closed
+Oct 06 23:41 : client: [43] opened from 127.0.0.1:59314
+Oct 06 23:41 : client: [43] closed
+Oct 06 23:41 : client: [44] opened from 127.0.0.1:59316
+Oct 06 23:41 : client: [44] closed
+Oct 06 23:41 : client: [45] opened from 127.0.0.1:59318
+Oct 06 23:41 : client: [45] closed
+Oct 06 23:41 : client: [46] opened from 127.0.0.1:59320
+Oct 06 23:41 : client: [46] closed
+Oct 06 23:41 : client: [47] opened from 127.0.0.1:59322
+Oct 06 23:41 : client: [47] closed
+Oct 06 23:41 : client: [48] opened from 127.0.0.1:59324
+Oct 06 23:41 : client: [48] closed
+Oct 06 23:41 : client: [49] opened from 127.0.0.1:59326
+Oct 06 23:41 : client: [49] closed
+Oct 06 23:42 : client: [50] opened from 127.0.0.1:59328
+Oct 06 23:42 : client: [50] closed
+Oct 06 23:42 : client: [39] closed
+Oct 06 23:43 : client: [51] opened from 127.0.0.1:59342
+Oct 06 23:43 : client: [51] closed
+Oct 06 23:43 : client: [52] opened from 127.0.0.1:59346
+Oct 06 23:43 : client: [53] opened from 127.0.0.1:59348
+Oct 06 23:43 : client: [53] closed
+Oct 06 23:43 : client: [54] opened from 127.0.0.1:59350
+Oct 06 23:43 : client: [54] closed
+Oct 06 23:43 : client: [55] opened from 127.0.0.1:59352
+Oct 06 23:43 : client: [55] closed
+Oct 06 23:43 : client: [56] opened from 127.0.0.1:59354
+Oct 06 23:43 : client: [56] closed
+Oct 06 23:43 : client: [57] opened from 127.0.0.1:59356
+Oct 06 23:43 : client: [57] closed
+Oct 06 23:43 : client: [58] opened from 127.0.0.1:59358
+Oct 06 23:43 : client: [58] closed
+Oct 06 23:44 : client: [52] closed
+Oct 06 23:44 : client: [59] opened from 127.0.0.1:59360
+Oct 06 23:44 : client: [59] closed
+Oct 06 23:44 : client: [60] opened from 127.0.0.1:59362
+Oct 06 23:44 : client: [60] closed
+Oct 06 23:44 : client: [61] opened from 127.0.0.1:59364
+Oct 06 23:45 : client: [61] closed
+Oct 06 23:45 : client: [62] opened from 127.0.0.1:59366
+Oct 06 23:45 : client: [62] closed
+Oct 06 23:45 : client: [63] opened from 127.0.0.1:59368
+Oct 06 23:45 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/13. 夏.mp3"
+Oct 06 23:45 : client: [63] closed
+Oct 06 23:45 : client: [64] opened from 127.0.0.1:59372
+Oct 06 23:46 : client: [64] closed
+Oct 06 23:46 : client: [65] opened from 127.0.0.1:59388
+Oct 06 23:47 : client: [65] closed
+Oct 06 23:47 : client: [66] opened from 127.0.0.1:59390
+Oct 06 23:47 : client: [67] opened from 127.0.0.1:59392
+Oct 06 23:47 : client: [67] closed
+Oct 06 23:47 : client: [68] opened from 127.0.0.1:59394
+Oct 06 23:47 : client: [68] closed
+Oct 06 23:50 : client: [66] closed
+Oct 06 23:50 : client: [69] opened from 127.0.0.1:59398
+Oct 06 23:51 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/05. フラレガイガール.mp3"
+Oct 06 23:52 : client: [69] closed
+Oct 06 23:52 : client: [70] opened from 127.0.0.1:59402
+Oct 06 23:53 : client: [70] closed
+Oct 06 23:53 : client: [71] opened from 127.0.0.1:59406
+Oct 06 23:54 : client: [71] closed
+Oct 06 23:54 : client: [72] opened from 127.0.0.1:59408
+Oct 06 23:54 : client: [72] closed
+Oct 06 23:54 : client: [73] opened from 127.0.0.1:59410
+Oct 06 23:54 : client: [73] closed
+Oct 06 23:54 : client: [74] opened from 127.0.0.1:59412
+Oct 06 23:55 : client: [74] closed
+Oct 06 23:55 : client: [75] opened from 127.0.0.1:59414
+Oct 06 23:55 : client: [75] closed
+Oct 06 23:55 : client: [76] opened from 127.0.0.1:59416
+Oct 06 23:55 : client: [76] closed
+Oct 06 23:55 : client: [77] opened from 127.0.0.1:59420
+Oct 06 23:56 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/02. 平行線.mp3"
+Oct 06 23:56 : client: [77] closed
+Oct 06 23:56 : client: [78] opened from 127.0.0.1:59424
+Oct 06 23:58 : client: [78] closed
+Oct 06 23:58 : client: [79] opened from 127.0.0.1:59450
+Oct 06 23:58 : client: [79] closed
+Oct 06 23:58 : client: [80] opened from 127.0.0.1:59452
+Oct 06 23:58 : client: [80] closed
+Oct 06 23:58 : client: [81] opened from 127.0.0.1:59454
+Oct 06 23:58 : client: [81] closed
+Oct 06 23:58 : client: [82] opened from 127.0.0.1:59456
+Oct 06 23:59 : client: [82] closed
+Oct 06 23:59 : client: [83] opened from 127.0.0.1:59458
+Oct 06 23:59 : client: [83] closed
+Oct 06 23:59 : client: [84] opened from 127.0.0.1:59460
+Oct 07 00:00 : client: [84] closed
+Oct 07 00:00 : client: [85] opened from 127.0.0.1:59462
+Oct 07 00:00 : client: [85] closed
+Oct 07 00:00 : client: [86] opened from 127.0.0.1:59464
+Oct 07 00:01 : client: [86] closed
+Oct 07 00:01 : client: [87] opened from 127.0.0.1:59466
+Oct 07 00:01 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/10. 来世で会おう.mp3"
+Oct 07 00:02 : client: [87] closed
+Oct 07 00:02 : client: [88] opened from 127.0.0.1:59476
+Oct 07 00:02 : client: [1] closed
+Oct 07 00:02 : client: [88] closed
+Oct 07 00:02 : exception: "Pulse Output" [pulse] failed to play: suspended
+Oct 07 00:02 : client: [89] opened from 127.0.0.1:59492
+Oct 07 00:03 : client: [90] opened from 127.0.0.1:59504
+Oct 07 00:03 : client: [90] closed
+Oct 07 00:03 : client: [91] opened from 127.0.0.1:59506
+Oct 07 00:03 : client: [91] closed
+Oct 07 00:03 : client: [92] opened from 127.0.0.1:59508
+Oct 07 00:03 : client: [92] closed
+Oct 07 00:03 : client: [93] opened from 127.0.0.1:59510
+Oct 07 00:03 : client: [93] closed
+Oct 07 00:04 : client: [89] closed
+Oct 07 00:04 : client: [94] opened from 127.0.0.1:59518
+Oct 07 00:04 : client: [94] closed
+Oct 07 00:04 : client: [95] opened from 127.0.0.1:59520
+Oct 07 00:05 : client: [95] closed
+Oct 07 00:05 : client: [96] opened from 127.0.0.1:59524
+Oct 07 00:05 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/12. アノニマス.mp3"
+Oct 07 00:06 : client: [96] closed
+Oct 07 00:06 : client: [97] opened from 127.0.0.1:59590
+Oct 07 00:07 : client: [97] closed
+Oct 07 00:07 : client: [98] opened from 127.0.0.1:59594
+Oct 07 00:08 : client: [98] closed
+Oct 07 00:08 : client: [99] opened from 127.0.0.1:59598
+Oct 07 00:11 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/14. birthday song.mp3"
+Oct 07 00:11 : client: [100] opened from [::1]:44902
+Oct 07 00:16 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/03. 十億年.mp3"
+Oct 07 00:17 : client: [99] closed
+Oct 07 00:17 : client: [101] opened from 127.0.0.1:59686
+Oct 07 00:17 : client: [102] opened from 127.0.0.1:59688
+Oct 07 00:17 : client: [102] closed
+Oct 07 00:17 : client: [103] opened from 127.0.0.1:59690
+Oct 07 00:17 : client: [103] closed
+Oct 07 00:18 : client: [101] closed
+Oct 07 00:18 : client: [104] opened from 127.0.0.1:59692
+Oct 07 00:19 : client: [104] closed
+Oct 07 00:19 : client: [105] opened from 127.0.0.1:59694
+Oct 07 00:19 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/07. るーららるーらーるららるーらー.mp3"
+Oct 07 00:19 : client: [105] closed
+Oct 07 00:19 : client: [106] opened from 127.0.0.1:59696
+Oct 07 00:20 : client: [106] closed
+Oct 07 00:20 : client: [107] opened from 127.0.0.1:59698
+Oct 07 00:20 : client: [107] closed
+Oct 07 00:20 : client: [108] opened from 127.0.0.1:59700
+Oct 07 00:21 : client: [108] closed
+Oct 07 00:21 : client: [109] opened from 127.0.0.1:59706
+Oct 07 00:23 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/06. 蜂と見世物.mp3"
+Oct 07 00:24 : client: [109] closed
+Oct 07 00:24 : client: [110] opened from 127.0.0.1:59716
+Oct 07 00:26 : client: [110] closed
+Oct 07 00:26 : client: [111] opened from 127.0.0.1:59744
+Oct 07 00:26 : client: [111] closed
+Oct 07 00:26 : client: [112] opened from 127.0.0.1:59746
+Oct 07 00:26 : client: [112] closed
+Oct 07 00:26 : client: [113] opened from 127.0.0.1:59752
+Oct 07 00:27 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/04. ケーキを焼く.mp3"
+Oct 07 00:27 : client: [113] closed
+Oct 07 00:27 : client: [114] opened from 127.0.0.1:59754
+Oct 07 00:28 : client: [114] closed
+Oct 07 00:28 : client: [115] opened from 127.0.0.1:59756
+Oct 07 00:29 : client: [115] closed
+Oct 07 00:29 : client: [116] opened from 127.0.0.1:59758
+Oct 07 00:29 : client: [116] closed
+Oct 07 00:29 : client: [117] opened from 127.0.0.1:59760
+Oct 07 00:29 : client: [117] closed
+Oct 07 00:29 : client: [118] opened from 127.0.0.1:59762
+Oct 07 00:29 : client: [118] closed
+Oct 07 00:29 : client: [119] opened from 127.0.0.1:59764
+Oct 07 00:29 : client: [119] closed
+Oct 07 00:29 : client: [120] opened from 127.0.0.1:59766
+Oct 07 00:30 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/13. 夏.mp3"
+Oct 07 00:30 : client: [120] closed
+Oct 07 00:31 : client: [121] opened from 127.0.0.1:59768
+Oct 07 00:34 : client: [121] closed
+Oct 07 00:34 : client: [122] opened from 127.0.0.1:59800
+Oct 07 00:35 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/01. ミカヅキ.mp3"
+Oct 07 00:35 : player: played "_music/_albums/Sayuri - Mikazuki no Kokai/11. knot.mp3"
+Oct 07 00:35 : client: [123] opened from 127.0.0.1:59804
+Oct 07 00:35 : client: [123] closed
+Oct 07 00:36 : client: [122] closed
+Oct 07 00:36 : client: [124] opened from 127.0.0.1:59810
+Oct 07 00:38 : client: [125] opened from 127.0.0.1:59862
+Oct 07 00:38 : client: [125] closed
+Oct 07 00:38 : client: [126] opened from 127.0.0.1:59864
+Oct 07 00:38 : client: [126] closed
+Oct 07 00:38 : client: [127] opened from 127.0.0.1:59866
+Oct 07 00:38 : client: [127] closed
+Oct 07 00:39 : client: [124] closed
+Oct 07 00:39 : client: [128] opened from 127.0.0.1:59868
+Oct 07 00:40 : client: [128] closed
+Oct 07 00:40 : client: [129] opened from 127.0.0.1:59870
+Oct 07 00:40 : client: [129] closed
+Oct 07 00:40 : client: [130] opened from 127.0.0.1:59872
+Oct 07 00:41 : client: [130] closed
+Oct 07 00:41 : client: [131] opened from 127.0.0.1:59874
+Oct 07 00:41 : client: [131] closed
+Oct 07 00:41 : client: [132] opened from 127.0.0.1:59878
+Oct 07 00:41 : client: [132] closed
+Oct 07 00:41 : player: played "_music/_yt/Songss/011 - 【Hatsune Miku English】Goodbye【Vocaloid Song】.mp3"
+Oct 07 00:41 : client: [133] opened from 127.0.0.1:59882
+Oct 07 00:42 : client: [133] closed
+Oct 07 00:42 : client: [134] opened from 127.0.0.1:59884
+Oct 07 00:42 : client: [134] closed
+Oct 07 00:42 : client: [135] opened from 127.0.0.1:59886
+Oct 07 00:42 : client: [135] closed
+Oct 07 00:42 : client: [136] opened from 127.0.0.1:59888
+Oct 07 00:42 : client: [136] closed
+Oct 07 00:42 : client: [137] opened from 127.0.0.1:59890
+Oct 07 00:42 : client: [137] closed
+Oct 07 00:42 : client: [138] opened from 127.0.0.1:59892
+Oct 07 00:43 : client: [138] closed
+Oct 07 00:43 : client: [139] opened from 127.0.0.1:59894
+Oct 07 00:43 : client: [139] closed
+Oct 07 00:43 : client: [140] opened from 127.0.0.1:59896
+Oct 07 00:44 : client: [141] opened from 127.0.0.1:59898
+Oct 07 00:44 : client: [141] closed
+Oct 07 00:45 : client: [140] closed
+Oct 07 00:45 : client: [142] opened from 127.0.0.1:59902
+Oct 07 00:45 : client: [142] closed
+Oct 07 00:45 : client: [143] opened from 127.0.0.1:59906
+Oct 07 00:46 : client: [143] closed
+Oct 07 00:46 : client: [144] opened from 127.0.0.1:59912
+Oct 07 00:48 : player: played "_music/_yt/Songss/121 - Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix).mp3"
+Oct 07 00:52 : player: played "_music/_yt/Songss/045 - Eir Aoi - Ignite.mp3"
+Oct 07 00:57 : player: played "_music/_yt/Songss/019 - 何でも言うことを聞いてくれるアカネチャン.mp3"
+Oct 07 01:01 : player: played "_music/_yt/Songss/138 - 【歌ってみた】ハロ／ハワユ【鹿乃】.mp3"
+Oct 07 01:05 : player: played "_music/_yt/Songss/093 - Kimi ni todoke op 1 w- lyrics.mp3"
+Oct 07 01:07 : client: [144] closed
+Oct 07 01:07 : client: [145] opened from 127.0.0.1:60088
+Oct 07 01:09 : player: played "_music/_yt/Songss/091 - FMA brotherhood OP1 ~ [Again]~『English and Romaji Lyrics 』.mp3"
+Oct 07 01:12 : client: [145] closed
+Oct 07 01:12 : client: [146] opened from 127.0.0.1:60164
+Oct 07 01:13 : client: [146] closed
+Oct 07 01:13 : client: [147] opened from 127.0.0.1:60166
+Oct 07 01:14 : client: [148] opened from 127.0.0.1:60172
+Oct 07 01:14 : client: [148] closed
+Oct 07 01:17 : client: [147] closed
+Oct 07 01:17 : client: [149] opened from 127.0.0.1:60200
+Oct 07 01:17 : client: [149] closed
+Oct 07 01:17 : client: [150] opened from 127.0.0.1:60202
+Oct 07 01:17 : client: [150] closed
+Oct 07 01:17 : client: [151] opened from 127.0.0.1:60204
+Oct 07 01:18 : player: played "_music/_yt/Songss/119 - Hated by Life Itself. - Mafumafu 【Sang It】.mp3"
+Oct 07 01:18 : client: [151] closed
+Oct 07 01:18 : client: [152] opened from 127.0.0.1:60216
+Oct 07 01:19 : client: [152] closed
+Oct 07 01:19 : client: [153] opened from 127.0.0.1:60218
+Oct 07 01:19 : client: [153] closed
+Oct 07 01:19 : client: [154] opened from 127.0.0.1:60220
+Oct 07 01:19 : client: [154] closed
+Oct 07 01:19 : client: [155] opened from 127.0.0.1:60222
+Oct 07 01:20 : client: [155] closed
+Oct 07 01:20 : client: [156] opened from 127.0.0.1:60224
+Oct 07 01:20 : client: [157] opened from 127.0.0.1:60226
+Oct 07 01:21 : client: [156] closed
+Oct 07 01:21 : client: [157] closed
+Oct 07 01:21 : client: [158] opened from 127.0.0.1:60228
+Oct 07 01:22 : client: [158] closed
+Oct 07 01:22 : client: [159] opened from 127.0.0.1:60254
+Oct 07 01:22 : player: played "_music/_yt/Songss/007 - BTS (방탄소년단) Blood Sweat and Tears Lyrics (피 땀 눈물) Han_Rom_Eng Color Coded.mp3"
+Oct 07 01:22 : client: [159] closed
+Oct 07 01:22 : client: [160] opened from 127.0.0.1:60256
+Oct 07 01:24 : client: [160] closed
+Oct 07 01:24 : client: [161] opened from 127.0.0.1:60262
+Oct 07 01:24 : client: [161] closed
+Oct 07 01:24 : client: [162] opened from 127.0.0.1:60266
+Oct 07 01:26 : client: [163] opened from 127.0.0.1:60270
+Oct 07 01:26 : client: [163] closed
+Oct 07 01:26 : client: [164] opened from 127.0.0.1:60272
+Oct 07 01:26 : client: [164] closed
+Oct 07 01:26 : client: [165] opened from 127.0.0.1:60274
+Oct 07 01:26 : player: played "_music/_yt/Songss/057 - Porter Robinson - Sad Machine (Lyric Video).mp3"
+Oct 07 01:26 : client: [165] closed
+Oct 07 01:26 : client: [166] opened from 127.0.0.1:60276
+Oct 07 01:26 : client: [166] closed
+Oct 07 01:26 : client: [167] opened from 127.0.0.1:60278
+Oct 07 01:26 : player: played "_music/_yt/Songss/057 - Porter Robinson - Sad Machine (Lyric Video).mp3"
+Oct 07 01:26 : client: [167] closed
+Oct 07 01:26 : client: [168] opened from 127.0.0.1:60280
+Oct 07 01:26 : client: [168] closed
+Oct 07 01:26 : client: [169] opened from 127.0.0.1:60290
+Oct 07 01:26 : player: played "_music/_yt/Songss/057 - Porter Robinson - Sad Machine (Lyric Video).mp3"
+Oct 07 01:26 : client: [169] closed
+Oct 07 01:26 : client: [170] opened from 127.0.0.1:60292
+Oct 07 01:26 : client: [170] closed
+Oct 07 01:26 : client: [171] opened from 127.0.0.1:60294
+Oct 07 01:26 : client: [171] closed
+Oct 07 01:26 : client: [172] opened from 127.0.0.1:60296
+Oct 07 01:26 : client: [172] closed
+Oct 07 01:26 : client: [162] closed
+Oct 07 01:26 : client: [173] opened from 127.0.0.1:60302
+Oct 07 01:30 : player: played "_music/_yt/Songss/057 - Porter Robinson - Sad Machine (Lyric Video).mp3"
+Oct 07 01:32 : client: [173] closed
+Oct 07 01:32 : client: [174] opened from 127.0.0.1:60322
+Oct 07 01:35 : client: [175] opened from 127.0.0.1:60396
+Oct 07 01:35 : client: [175] closed
+Oct 07 01:38 : client: [174] closed
+Oct 07 01:38 : client: [176] opened from 127.0.0.1:60408
+Oct 07 01:38 : client: [176] closed
+Oct 07 01:38 : client: [177] opened from 127.0.0.1:60410
+Oct 07 01:39 : client: [177] closed
+Oct 07 01:39 : client: [178] opened from 127.0.0.1:60414
+Oct 07 01:39 : player: played "_music/_yt/Songss/043 - 【手描き】ワールドイズマイン【PV】~ Hatsune Miku - World is Mine.mp3"
+Oct 07 01:41 : client: [100] closed
+Oct 07 01:41 : client: [179] opened from [::1]:45702
+Oct 07 01:43 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 07 01:43 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Oct 07 01:43 : player: played "_music/_albums/Aimer - Bitter & Sweet/01.リフレインが叫んでる.mp3"
+Oct 07 01:50 : player: played "_music/_albums/Aimer - Bitter & Sweet/01.リフレインが叫んでる.mp3"

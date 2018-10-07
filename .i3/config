@@ -9,7 +9,7 @@ set $mod Mod4
 
 # Configure border style <normal|1pixel|pixel xx|none|pixel>
 # m: allow new windows to have titles
-new_window normal
+new_window pixel 2
 new_float normal
 
 # Hide borders
@@ -53,8 +53,8 @@ bindsym $mod+Ctrl+m exec pavucontrol
 ################################################################################################
 
 # Screen brightness controls
-# bindsym XF86MonBrightnessUp exec "xbacklight -inc 10; notify-send 'brightness up'"
-# bindsym XF86MonBrightnessDown exec "xbacklight -dec 10; notify-send 'brightness down'"
+bindsym XF86MonBrightnessUp exec "xbacklight -inc 10; notify-send 'brightness up'"
+bindsym XF86MonBrightnessDown exec "xbacklight -dec 10; notify-send 'brightness down'"
 
 # Start Applications
 bindsym $mod+Ctrl+b exec terminal -e 'bmenu'
@@ -296,8 +296,8 @@ exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id nitrogen --restore; sleep 1; compton -b
 #exec --no-startup-id manjaro-hello
 exec --no-startup-id nm-applet
-exec --no-startup-id xfce4-power-manager
-exec --no-startup-id pamac-tray
+#exec --no-startup-id xfce4-power-manager
+#exec --no-startup-id pamac-tray
 exec --no-startup-id clipit
 # exec --no-startup-id blueman-applet
 # exec_always --no-startup-id sbxkb
@@ -345,46 +345,16 @@ set $cbo #454947
 set $cg #666666
 set $cf #FFFFFF
 
-# Start i3bar to display a workspace bar (plus the system information i3status if available)
-bar {
-    font pango: FontAwesome 11
-	i3bar_command i3bar
-	status_command i3blocks
-	position bottom
-	
-	separator_symbol "·"
-
-## please set your primary output first. Example: 'xrandr --output eDP1 --primary'
-#	tray_output primary
-#	tray_output eDP1
-
-	bindsym button4 nop
-	bindsym button5 nop
-#   font xft:URWGothic-Book 11
-	strip_workspace_numbers yes
-
-	# colours in the bar
-    colors {
-        background $cb
-        statusline #F9FAF9
-        separator  $cg
-
-#                      border  backgr. text
-        focused_workspace  $cbb $cbb $cf
-        active_workspace   $cb $cb $cf
-        inactive_workspace $cb $cb $cf
-        binding_mode       #16a085 #2C2C2C #F9FAF9
-        urgent_workspace   #16a085 #FDF6E3 #E5201D
-    }
-}
+# m: polybar
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 # hide/unhide i3status bar
 bindsym $mod+m bar mode toggle
 
 # Theme colors
 # class                   border  backgr. text    indic.   child_border
-  client.focused          $cb $cb $cf #FDF6E3
-  client.focused_inactive $cbb $cbb $cg #454948
+  client.focused          $cb $cg $cf #FDF6E3
+  client.focused_inactive $cb $cbb $cg #454948
   client.unfocused        $cbb $cbb $cg #454948
   client.urgent           #CB4B16 #FDF6E3 #1ABC9C #268BD2
   client.placeholder      #000000 #0c0c0c #ffffff #000000 
