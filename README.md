@@ -7,8 +7,9 @@ My configurations, etc
 # Things used:
 A list of some of the key things I use for my setup:
 - i3-gaps - wm
-- i3bar - bar
-- i3blocks - info
+- ~~i3bar - bar~~
+- ~~i3blocks - info~~
+- polybar - bar
 - conky - info
 - pulseaudio - sound
   - pavucontrol
@@ -23,15 +24,18 @@ A list of some of the key things I use for my setup:
 - lightdm - lockscreen
   - slick greeter
   - [lightdm-settings](https://github.com/linuxmint/lightdm-settings)
-- nitrogen - wallpaper
+- ~~nitrogen - wallpaper~~
 - networkmanager - networking
 - ksysguard - processes viewer/killer
 - google-chrome - browser
 - i3-scrot - screenshot
 - ~~blurlock~~
 - clipit - util
-- xfce-power-manager - powersave
+- xfce-power-manager - power management
 - fontawesome - font
+- feh (+my python script) - slideshow wallpaper
+- xkill - util
+- [mpd-scripts](https://github.com/makurell/mpdscripts) - mpd playlists, etc
 
 # Other things:
 Other less key things that I am using/trialling/thinking of using
@@ -39,7 +43,6 @@ Other less key things that I am using/trialling/thinking of using
 - cli-visualizer - vis
 - morc_menu - menu
 - moc - music
-- xkill - util
 - laptop-mode-tools - powersave
 - powertop - powersave
 - ~~tlp -powersave ~~
@@ -50,7 +53,7 @@ Other less key things that I am using/trialling/thinking of using
 
 # Todo
 - [ ] power saving scripts
-- [ ] polybar
-- [ ] mpd favouriting etc
+- [x] polybar
+- [x] mpd favouriting etc
 - [ ] specific workspaces for specific things
   - [ ] workspace icons

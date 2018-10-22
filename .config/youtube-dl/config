@@ -1,0 +1,13 @@
+# ignore errors
+-i
+
+# audio
+-x
+--audio-format mp3
+
+# meta
+--embed-thumbnail
+--add-metadata
+
+# output
+-o "/media/music/music/assorted/%(playlist)s/%(autonumber)s - %(title)s.%(ext)s"

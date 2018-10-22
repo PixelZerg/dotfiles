@@ -41,8 +41,8 @@ s = #e60053
 u = #bd2c40
 
 [col/transp]
-b = #00000000
-ba = #773f3f3f
+b = #dd111111
+ba = #99444444
 f = #dfdfdf
 fa = #444
 p = #ccc
@@ -51,7 +51,7 @@ u = #bd2c40
 
 [col]
 ; currently using theme v
-inherit = col/def
+inherit = col/transp
 g0 = #444444
 g1 = #aaff77
 g2 = #aaff77
@@ -61,7 +61,7 @@ g4 = #ff5555
 ; bar mixin
 [bar]
 width = 100%
-height = 25
+height = 32
 line-size = 2
 ;radius = 3.0
 
@@ -137,7 +137,7 @@ index-sort = true
 wrapping-scroll = false
 
 label-mode-padding = 2
-label-mode-foreground = ${col.b}
+label-mode-foreground = ${col.ba}
 label-mode-background = ${col.p}
 
 label-focused = %index%
@@ -164,7 +164,7 @@ interval = 1.0
 date = %b %d,
 time = %I:%M%p
 
-date-alt = %a %d %B 
+date-alt = %a %d %B, 
 time-alt = %I:%M%p
 
 label = %date% %time%
@@ -316,7 +316,7 @@ type = internal/memory
 interval = 2
 
 format = <label>  <bar-used>
-label = %percentage_free:2%%
+label = %percentage_used:2%%
 label-font = 4
 
 bar-used-font = 3
