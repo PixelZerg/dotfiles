@@ -1,0 +1,5 @@
+a3bac0 # background light
+78929f # background
+4a7286 # background dark
+ceb186 # complementary 
+b57975 # red

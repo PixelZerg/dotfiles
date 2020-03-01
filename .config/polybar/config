@@ -49,9 +49,18 @@ p = #ccc
 s = #e60053
 u = #bd2c40
 
+[col/bluey]
+b =  #4d5d66
+ba = #4a7286
+f = #dfdfdf
+fa = #444
+p = #ccc
+s = #e60053
+u = #bd2c40
+
 [col]
 ; currently using theme v
-inherit = col/transp
+inherit = col/bluey
 g0 = #444444
 g1 = #aaff77
 g2 = #aaff77
@@ -87,8 +96,16 @@ foreground = ${col.f}
 inherit = bar
 bottom = true
 
-modules-left = i3
+modules-left = i3 xwindow
 modules-right = memory cpu temperature battery date 
+
+tray-position = right
+tray-detached = false
+tray-transparent = false
+tray-padding = 0
+tray-scale = 1.0
+tray-offset-y = 0
+tray-background = ${col.b}
 
 [bar/top]
 inherit = bar
@@ -246,8 +263,8 @@ menu-2-1-exec = menu_open-0
 [module/battery]
 type = internal/battery
 full-at = 100
-battery = BAT1
-adapter = ACAD
+battery = BAT0
+adapter = AC
 
 poll-interval = 5
 
@@ -329,4 +346,5 @@ bar-used-foreground-1 = ${col.g2}
 bar-used-foreground-2 = ${col.g3}
 bar-used-foreground-3 = ${col.g4}
 bar-used-empty-foreground = ${col.g0}
+
 

@@ -1,0 +1,6 @@
+[Added Associations]
+application/pdf=qpdfview.desktop;
+text/plain=mousepad.desktop;
+
+[Default Applications]
+text/plain=mousepad.desktop;

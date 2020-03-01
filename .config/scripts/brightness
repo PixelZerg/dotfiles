@@ -1,0 +1,12 @@
+#!/usr/bin/zsh
+
+path=/sys/class/backlight/amdgpu_bl0/brightness
+brightness=$(/usr/bin/cat $path)
+
+if [[ $1 == "inc" ]]; then
+	brightness=$((brightness+3))
+elif [[ $1 == "dec" ]]; then
+	brightness=$((brightness-3))
+fi
+
+echo "$brightness" > $path
