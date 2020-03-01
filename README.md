@@ -6,7 +6,7 @@ My configurations, etc
 
 # Based on:
 - my old manjaro dotfiles (see branch old-manjaro)
-- wallpaper source: [](https://www.pixiv.net/en/artworks/75339956)
+- wallpaper source: https://www.pixiv.net/en/artworks/75339956
 
 # Things used:
 A list of some of the key things I use for my setup:
